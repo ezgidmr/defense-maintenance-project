@@ -114,4 +114,4 @@ Streamlit uygulamasını başlatmak için:
 
 Gradient Boosting modeli test verisi üzerinde yaklaşık **0.797 R²** değerine ulaşmıştır.
 
-Bu proje, sensör verilerinden yararlanarak makine öğrenmesi ile **predictive maintenance** ve **Remaining Useful Life prediction** yaklaşımının nasıl uygulanabileceğini göstermektedir.s
+Bu proje, sensör verilerinden yararlanarak makine öğrenmesi ile **predictive maintenance** ve **Remaining Useful Life prediction** yaklaşımının nasıl uygulanabileceğini göstermektedir.
